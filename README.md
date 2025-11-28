@@ -10,4 +10,4 @@ Framework Used: Bootstrap
 
 Screenshots of the Website: 
 
-![image alt]()
+![image alt](https://github.com/seraphh12/genAI-LitHub/blob/main/Screenshots/Screenshot%20(641).png?raw=true)
