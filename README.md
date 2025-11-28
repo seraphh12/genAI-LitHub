@@ -10,4 +10,4 @@ Framework Used: Bootstrap
 
 Screenshots of the Website: 
 
-![Alt text](Screenshots/Screenshot.(641).png)
+![image alt]()
