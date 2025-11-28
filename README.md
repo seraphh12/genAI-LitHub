@@ -1,6 +1,4 @@
-# genAI-LitHub
-
-Title of the Project: genAI LitHub
+# Title of the Project: genAI LitHub
 
 The genAI LitHub is an educational website designed to help students, educators, and beginners understand the essentials of generative AI and how to use it responsibly. The website provides clear explanations of what generative AI is, how it works, and what tools currently exist in the field. It also discusses the strengths of AI, as well as its limitations and risks. Another key feature of the website is its section on the Ethical Use of AI, which highlights the importance of responsible usage, especially in academic settings. This section explains how students can avoid plagiarism, maintain academic integrity, and properly verify AI-generated information. It also addresses ethical concerns such as bias and fairness, emphasizing the need to think critically about AI responses. Recommended guidelines are included, reminding users to verify facts, use AI as a support tool rather than a substitute, acknowledge AI usage in academic outputs when required, and avoid sharing sensitive personal information. The website also presents an analogy related to development work to help users better understand the role of human skill in AI-assisted work.
 
@@ -11,3 +9,4 @@ WEBSITE FEATURES: When you drag the mouse cursor to the All button and each GenA
 Framework Used: Bootstrap
 
 Screenshots of the Website: 
+
